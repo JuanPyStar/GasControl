@@ -28,6 +28,7 @@ GasControl es un sistema web profesional que digitaliza y automatiza todos los p
 - **Registro Detallado**: Cada venta queda documentada con fecha, empleado, cliente y combustible  
   
 ## 📊 **Dashboard y Reportes Profesionales**  
+![Dashboard](dashboard.png)
   
 ### Visualización de Datos en Tiempo Real  
 - **Gráficos Interactivos**: Tendencias de ventas diarias con Chart.js  
