@@ -7,17 +7,20 @@ GasControl es un sistema web profesional que digitaliza y automatiza todos los p
 ## ✨ ¿Por qué elegir GasControl?  
   
 ### 🎯 **Gestión Inteligente de Clientes**  
+![clientes](clientes.png)
 - **Sistema de Fidelización**: Programa automático de millas que recompensa a tus clientes frecuentes  
 - **Base de Datos Completa**: Registro detallado con información de contacto y vehículos  
 - **Historial de Compras**: Seguimiento completo de transacciones por cliente  
   
 ### ⛽ **Control Total de Inventario**  
+![inventario](inventario.png)
 - **Monitoreo en Tiempo Real**: Visualización instantánea del stock de todos los combustibles  
 - **Alertas Inteligentes**: Sistema de notificaciones por niveles críticos de inventario  
 - **Gestión de Suministros**: Registro completo de recepciones y proveedores  
 - **Precios Dinámicos**: Actualización flexible de precios por tipo de combustible  
   
-### 👥 **Administración de Personal Eficiente**  
+### 👥 **Administración de Personal Eficiente** 
+![empleados](empleados.png)
 - **Gestión de Turnos**: Sistema completo de horarios (mañana, tarde, noche)  
 - **Control de Acceso**: Roles diferenciados para administradores y empleados  
 - **Registro de Empleados**: Base de datos completa del personal con información de contacto  
